@@ -1,1 +1,10 @@
 @import 'tailwindcss';
+
+@theme {
+    --color-main: #336699;
+}
+
+html {
+    font-family: 'Inter Variable', sans-serif;
+    letter-spacing: -0.025rem;
+}
