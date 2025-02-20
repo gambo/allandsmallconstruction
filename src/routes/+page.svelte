@@ -9,7 +9,7 @@
 </script>
 
 <div class="bg absolute inset-0 bg-slate-100">
-	<div class="mx-auto w-1/2 pt-16 text-center">
+	<div class="mx-auto pt-16 text-center">
 		<div class="flex flex-col items-center gap-2 text-sm text-slate-800">
 			<img src="/logo.svg" alt="All and Small Construction Logo" class="w-64" />
 			<p class="pt-8 text-3xl text-pretty font-bold">Website under construction</p>
